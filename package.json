@@ -1,0 +1,10 @@
+{
+    "uid": "http://registry.pinf.org/jsinsight.org/github/plugin-api/",
+    "name": "plugin-api",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/insight/plugin-api.git"
+        }
+    ]
+}
