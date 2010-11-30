@@ -2,7 +2,7 @@
 API for Insight Plugins
 =======================
 
-This project contains the API used by insight plugins to communicate with the insight host environment.
+This project contains the API used by insight plugins to communicate with the insight host environment and perform typical tasks for the plugin.
 
 The API is available as a [CommonJS](http://www.commonjs.org/) package.
 
